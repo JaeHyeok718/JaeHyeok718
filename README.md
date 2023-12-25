@@ -27,31 +27,22 @@
 - LinkedIn: [LinkedIn 프로필 링크]
 - Blog/Website: [블로그나 웹사이트 링크]
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+#### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![AJAX](https://img.shields.io/badge/-AJAX-%23404D59?style=flat)
-![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
+
+#### Frameworks and Libraries
+![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)
-![OracleSQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-%23404D59?style=flat)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-%23E34F26?style=flat)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-%239512C2?style=flat&logo=csharp&logoColor=white)
-
-### Frameworks and Libraries
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
+#### Tools and Others
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-%232C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![Spring Tool Suite (STS)](https://img.shields.io/badge/-Spring%20Tool%20Suite-%236DB33F?style=flat&logo=spring&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
