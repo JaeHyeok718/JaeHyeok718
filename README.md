@@ -13,19 +13,10 @@
 - 😄 대명사: [그/그녀/그들 등]
 - ⚡ 재미있는 사실: 
 
-## 🛠 기술 스택
-[기술 스택 목록을 나열하거나, 배지 형태로 표시합니다. 예: JavaScript, React, Node.js 등]
-
-## 📈 GitHub 통계
-[GitHub 통계를 보여주는 그래프나 배지를 포함할 수 있습니다. 예: GitHub Stats, Most Used Languages 등]
-
-## 🏆 트로피
-[GitHub 트로피나 기타 성취를 나타내는 배지를 포함할 수 있습니다.]
-
 ## ✉️ 연락처
-- Email: [이메일 주소]
-- LinkedIn: [LinkedIn 프로필 링크]
-- Blog/Website: [블로그나 웹사이트 링크]
+- Email: sorento7718@naver.com
+- 
+## 🛠 기술 스택
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
