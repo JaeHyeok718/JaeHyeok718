@@ -1,5 +1,5 @@
 # Hey! Nice to see you! My name is JaeHyeok Jang 👋
-## 🙌 Introduce
+## 🙌 소개 (Introduce)
 - 🎓 KH정보교육원 수료(23.08 ~ 24.01)
 - 💻 열심히 공부중인 풀스택 개발자
 - 🌱 현재 배우고 있는 것: Spring Framework
@@ -13,7 +13,7 @@
   
 
 
-## ✉️ 연락처
+## ✉️ 연락처(contact information)
 - Email: sorento7718@naver.com
 - 💬(KAKAOTALK) : sorento7718
   
