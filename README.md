@@ -1,20 +1,22 @@
 # Hey! Nice to see you! My name is JaeHyeok Jang 👋
 ## 🙌 Introduce
-- 🎓 KH정보교육원 수료
+- 🎓 KH정보교육원 수료(23.08 ~ 24.01)
 - 💻 열심히 공부중인 풀스택 개발자
 - 🌱 현재 배우고 있는 것: Spring Framework
 - 🏠 거주지: Seoul, Nowon
-- 🎯 단기 목표: Spring을 보다 능숙하게, JavaScript를 보다 다양하게
+- 🎯 단기 목표: Spring을 보다 능숙하게, JavaScript를 보다 다양하게 !! 
 - 🌟 장기 목표: 열심히 공부해서 인정 받는 Developer가 될때까지!
 - 🎮 취미: 영화보기, 축구, 등산
 - 💬 물어보고 싶은 것: 현업에서의 Spring Framework 최신 동향
 - 📫 연락 방법: sorento7718@naver.com
-- 😄 대명사: 👨 
+- 😄 대명사: 👨
+  
 
 
 ## ✉️ 연락처
 - Email: sorento7718@naver.com
-- 
+- 💬(KAKAOTALK) : sorento7718
+  
 ## 🛠 기술 스택
 
 #### Languages
