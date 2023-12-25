@@ -6,7 +6,7 @@
 - 🏠 거주지: Seoul, Nowon
 - 🎯 단기 목표: Spring을 보다 능숙하게, JavaScript를 보다 다양하게 !! 
 - 🌟 장기 목표: 열심히 공부해서 인정 받는 Developer가 될때까지!
-- 🎮 취미: 영화보기, 축구, 등산
+- 🎮 취미: 영화보기, 축구, 등산, PS4
 - 💬 물어보고 싶은 것: 현업에서의 Spring Framework 최신 동향
 - 📫 연락 방법: sorento7718@naver.com
 - 😄 대명사: 👨
