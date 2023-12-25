@@ -17,7 +17,7 @@
 - Email: sorento7718@naver.com
 - 💬(KAKAOTALK) : sorento7718
   
-## 🛠 기술 스택
+## 🛠 기술 스택(Things I code With)
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
