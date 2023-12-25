@@ -37,6 +37,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-%23404D59?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat&logo=json&logoColor=white)
+![Gson](https://img.shields.io/badge/-Gson-%23758A93?style=flat)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-%23E34F26?style=flat)
 
 #### Tools and Others
