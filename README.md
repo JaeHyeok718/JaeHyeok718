@@ -1,7 +1,7 @@
 # Hey! Nice to see you! My name is JaeHyeok Jang 👋
 ## 🙌 소개 (Introduce)
 - 🎓 KH정보교육원 수료(23.08 ~ 24.01)
-- 💻 열심히 공부중인 풀스택 개발자
+- 💻 풀스택 개발자로 성장중 
 - 🌱 현재 배우고 있는 것: Spring Framework
 - 🏠 거주지: Seoul, Nowon
 - 🎯 단기 목표: Spring을 보다 능숙하게, JavaScript를 보다 다양하게 !! 
