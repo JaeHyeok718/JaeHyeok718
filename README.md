@@ -41,3 +41,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
+
+
+## 🌍 오픈소스 프로젝트
+저는 다음과 같은 오픈소스 프로젝트에 기여하고 있습니다:
+
+- **[NILILI]**: 서울여행지를 소개하는 목적
+주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게
+간단한 게임과 구독결제를 통해 여행지 소개 . ([GitHub 링크](https://github.com/username/project))
+
+- **[다른 프로젝트 이름]**: 이 프로젝트에서는 특히 XYZ에 기여했습니다. ([GitHub 링크](https://github.com/username/other-project))
