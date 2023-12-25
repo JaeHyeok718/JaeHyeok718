@@ -44,8 +44,7 @@
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
 
 
-## 🌍 오픈소스 프로젝트
-저는 다음과 같은 오픈소스 프로젝트에 기여하고 있습니다:
+## 🌍 KH정보교육원에서의 프로젝트들
 
 - **[NILILI]**: 서울여행지를 소개하는 목적
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게
