@@ -48,6 +48,6 @@
 
 - **[NILILI]**: 서울여행지를 소개하는 목적
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게
-간단한 게임과 구독결제를 통해 여행지 소개 . ([GitHub 링크](https://github.com/username/project))
+간단한 게임과 구독결제를 통해 여행지 소개 . ([GitHub 링크](https://github.com/JaeHyeok718/SemiProject))
 
 - **[다른 프로젝트 이름]**: 이 프로젝트에서는 특히 XYZ에 기여했습니다. ([GitHub 링크](https://github.com/username/other-project))
