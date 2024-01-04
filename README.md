@@ -44,7 +44,8 @@
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
 
 #### Most Used Languages
-github-readme-stats.vercel.app/api/top-langs/?username={JaeHyeok718}&langs_count=8
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok718&show_icons=true&theme=tokyonight)
+
 
 
 
