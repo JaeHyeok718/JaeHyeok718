@@ -61,4 +61,9 @@
 과 챗봇을 구현함으로써 사용자의 접근성을 높힘
  ([NILILI](https://github.com/JaeHyeok718/SemiProject))
 
-- **[다른 프로젝트 이름]**: 이 프로젝트에서는 특히 XYZ에 기여했습니다. ([GitHub 링크](https://github.com/username/other-project))
+- **[DungJip]**: 현존하는 부동산 중개 사이트들의 취약점을 보완해
+-                 둥집이라는 부동산중개사이트 구현
+-                 카카오API를 사용함으로써 지도구현을 하였다.
+-                 webSocket을 사용하여 공인중개사와 채팅을 구현하여
+-                 사용자 경험을 향상시킴(진행중 85%완료..  24/01/11마무리 (브런치를 main 말고 develop에서 확인해주세요.))
+-             ([DungJip](https://github.com/JaeHyeok718/DungJip))
