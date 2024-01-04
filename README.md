@@ -44,7 +44,8 @@
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
 
 #### Most Used Languages
-[![Top Langs](https://github-reame-stats.vercel.app/api/top-langs/?username=JaeHyeok718)](https://github.com/JaeHyeok718/github-readme-stats)
+github-readme-stats.vercel.app/api/top-langs/?username={JaeHyeok718}&langs_count=8
+
 
 
 ## 🌍 KH정보교육원에서의 프로젝트들
