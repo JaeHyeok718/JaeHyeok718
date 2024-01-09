@@ -28,6 +28,7 @@
 
 #### Frameworks and Libraries
 ![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-%23404D59?style=flat)
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat&logo=json&logoColor=white)
