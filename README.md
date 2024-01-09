@@ -2,12 +2,12 @@
 ## 🙌 소개 (Introduce)
 - 🎓 KH정보교육원 수료(23.08 ~ 24.01)
 - 💻 풀스택 개발자로 성장중 
-- 🌱 현재 배우고 있는 것: Spring Framework
+- 🌱 현재 배우고 있는 것: Spring Framework, Spring Boot 
 - 🏠 거주지: Seoul, Nowon
-- 🎯 단기 목표: Spring을 보다 능숙하게, JavaScript를 보다 다양하게 !! 
-- 🌟 장기 목표: 열심히 공부해서 인정 받는 Developer가 될때까지!
+- 🎯 단기 목표: Spring을 보다 능숙하게 사용하고 싶습니다! 
+- 🌟 장기 목표: 현재는 주니어 개발자지만 앞으로 열심히 성장해서 인정받는 개발자가 되고 싶습니다
 - 🎮 취미: 영화보기, 축구, 등산, PS4
-- 💬 물어보고 싶은 것: 현업에서의 Spring Framework 최신 동향
+- 💬 물어보고 싶은 것: 주니어개발자에게 필요한 모든것
 - 📫 연락 방법: sorento7718@naver.com
 - 😄 대명사: 👨
   
