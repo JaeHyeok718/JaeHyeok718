@@ -5,13 +5,29 @@
 - 🌱 현재 공부하고 있는 것: Spring Boot 
 - 🏠 거주지: Seoul, Nowon
 - 🎯 단기 목표: 지금까지 했던 프로젝트 springBoot로 바꿔보기 
-- 🌟 장기 목표: 현재는 주니어 개발자지만 앞으로 열심히 성장해서 인정받는 개발자가 되고 싶습니다
+- 🌟 장기 목표: 현재는 주니어 개발자지만 앞으로 열심히 성장해서 인정받는 개발자가 되기!!
 - 🎮 취미: 영화보기, 축구, 등산, PS4
 - 💬 선배에게 물어 보고 싶은 것: 주니어개발자가 성장하기 위해서 필요한 모든 것
 - 📫 연락 방법: sorento7718@naver.com
 - 😄 대명사: 👨
+<!-- 나의정보 
+ <details>
+  <summary> 갑자기 왜 개발자가 하고싶은거야??🤔</summary>
+  <br>
 
-  
+</details>
+ 
+ <details>
+  <summary> 향후 계획은 뭐야??🤔</summary>
+  <br>
+
+</details>
+
+<details>
+  <summary> 무슨 개발자가 되고 싶어?🤔</summary>
+  <br>
+
+</details>-->
 
 
 ## ✉️ 연락처(contact information)
