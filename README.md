@@ -33,7 +33,7 @@
 ## ✉️ 연락처(contact information)
 - Email: sorento7718@naver.com
 - 💬(KAKAOTALK) : sorento7718
-- ![Instagram DM](https://img.shields.io/badge/Instagram-DM-blue?style=flat&logo=instagram&logoColor=white) (https://www.instagram.com/jaehk__?igsh=MWx5MXFkeG5qZDVueQ%3D%3D&utm_source=qr)
+
   
 ## 🛠 기술 스택(Things I code With)
 
