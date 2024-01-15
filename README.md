@@ -37,14 +37,8 @@
   <br>
 저랑 같은 처지에 고민하시는 분들에게 저는 도움이 되고싶어요! 개발에 세계에서 흥미를 느끼는 사람이 있으면 무조건 하라고 추천해줄 위치까지 저는 성장하고 싶어요! 저랑 같은 길을 걷는 사람에게 한치라고 도움이 되는 개발자가 되고싶습니다!
 </details>
-
-
-## ✉️ 연락처(contact information)
-- Email: sorento7718@naver.com
-- 💬(KAKAOTALK) : sorento7718
-
   
-## 🛠 기술 스택(Things I code With)
+## 🛠 기술 스택
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
@@ -70,12 +64,8 @@
 ![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
 
-#### Mos
+#### My git Play
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok718&show_icons=true&theme=tokyonight)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHyeok718%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyeok718&layout=compact&theme=nord&hide_border=true" /></a> 
-
 
 ## 🌍 KH정보교육원에서의 프로젝트들
 
