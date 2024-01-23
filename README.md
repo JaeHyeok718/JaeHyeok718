@@ -86,9 +86,9 @@
                   사용자 경험을 향상시킴  
               ([DungJip](https://github.com/JaeHyeok718/DungJip/tree/develop))
 
-  ## 현재 공부중인 것들
+  ## 📖 현재 공부중인 것들
   -**[JavaStudy]**-
   현재 기본적인것을 다시 복습하고, 알고리즘 공부를 하려고 만든 레파지토리입니다.
   여러사이트의 코딩테스트 문제를 보면서 다시 개념을 읽히고, 여러 알고리즘들을 공부하고 있습니다.
-
+    ([JAVASTUDY](https://github.com/JaeHyeok718/JavaStudy))
 
