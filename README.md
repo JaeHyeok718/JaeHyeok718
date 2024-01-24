@@ -11,7 +11,7 @@
 - 🎮 취미는 어떤거야? : 감명깊었던 영화 다시보기, 축구, 등산, PS4
 - 💬 선배한테 물어보고 싶은거 있어?: 주니어개발자가 성장하기 위해서 필요한 모든것이 궁금해요!
 - 📱 연락처가 뭐야?? : sorento7718@naver.com
-- 📖 저의 개발일기장 : <a href="https://blog.naver.com/jangcodingstudy">개발일기장</a><br><br>
+- 📖 저의 개발일기장 : <a href="https://blog.naver.com/jangcodingstudy">블로그📚</a><br><br>
   ##  <h2>저의 노션에 오셔서 좀 더 자세한 포트폴리오와 저에 대해 자세히 알수있어요!! 😃</h2>
 - <h2><a href="https://www.notion.so/f1f5864610c64beb9726ca608b294e87?pvs=4">With my Notion!!</a></h2>
 
