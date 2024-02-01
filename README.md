@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WelCome!&fontSize=90)
-# 안녕하세요! 주니어개발자 장재혁입니다! 🚸
+# 안녕하세요! 백엔드개발자 장재혁입니다! 🚸
 ## 🙌 장재혁은 누구야 ?   
 - 🎓 KH정보교육원 수료(23.08 ~ 24.01)
 - 💻 Backend개발자로 성장중 🌱 
