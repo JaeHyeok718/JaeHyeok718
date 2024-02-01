@@ -77,7 +77,7 @@
                   카카오API를 사용함으로써 지도구현을 하였다.  
                   webSocket을 사용하여 공인중개사와 채팅을 구현하여  
                   사용자 경험을 향상시킴  
-              ([DungJip](https://github.com/JaeHyeok718/DungJip/tree/develop))
+              ([DungJip](https://github.com/JaeHyeok718/DungJip/tree/main))
 
   ## 📖 현재 공부중인 것들
   -**[JavaStudy]**-
