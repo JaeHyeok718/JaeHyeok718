@@ -91,7 +91,7 @@
   <br><br>
 
     -**[OpenDataAPI]**-
-   공공데이터를 활용을 한 JSP 연습 저장소입니다.
+   공공데이터를 활용을 간단한 연습 저장소입니다.
     ([OpenData](https://github.com/JaeHyeok718/openDataEx))
 
 
