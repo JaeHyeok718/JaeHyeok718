@@ -60,8 +60,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-%23F80000?style=flat&logo=oracle&logoColor=white)
 
-#### My git Play
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyeok718&show_icons=true&theme=tokyonight)
 
 ## 🌍 진행했던 프로젝트들
 
