@@ -79,7 +79,19 @@
 
   ## 📖 현재 공부중인 것들
   -**[JavaStudy]**-
-  현재 기본적인것을 다시 복습하고, 알고리즘 공부를 하려고 만든 레파지토리입니다.
+  현재 기본적인것을 다시 복습하고, 알고리즘 공부를 하려고 만든 저장소입니다.
   여러사이트의 코딩테스트 문제를 보면서 다시 개념을 읽히고, 여러 알고리즘들을 공부하고 있습니다.
     ([JAVASTUDY](https://github.com/JaeHyeok718/JavaStudy))
+  <br><br>
+
+    -**[SpringWithWeb]**-
+   Spring Framework를 활용한 웹어플리케이션 구축을 복습해보는 저장소입니다.
+    기초적인것 부터 복습을 하여, 배운 내용들을 다시 활용해보며 풀스택을 연습하는 중입니다.
+    ([SpringWithWeb](https://github.com/JaeHyeok718/SpringWithWebPage))
+  <br><br>
+
+    -**[OpenDataAPI]**-
+   공공데이터를 활용을 한 JSP 연습 저장소입니다.
+    ([OpenData](https://github.com/JaeHyeok718/openDataEx))
+
 
